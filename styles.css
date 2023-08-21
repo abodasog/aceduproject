@@ -1,0 +1,63 @@
+.white{
+    background-color: rgb(228, 223, 223);
+    font-style: normal;
+    font-size: 30px;
+}
+h2{
+     color: hsl(36, 100%, 20%);
+     column-rule-color: orange;
+     font: bolder;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-weight: lighter;
+     font-size: 85px;
+     line-height: 30px;
+     display: block;
+     min-width: 45px;
+     min-height: fit-content;
+     object-position: center;
+     float: inline-start;
+     margin: 15px;    
+     margin-left: auto;
+     margin-right: auto;
+     
+
+}
+body{
+    background-color: rgb(250, 153, 8);
+    
+    font-display: bolder;
+    display: block;
+    margin: 0px;
+    height: 100%;
+}   
+img{
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+align-items: center;
+text-align: center;
+
+
+    
+}
+div2{
+    float: left;
+    position: absolute;
+    
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:red ;
+    font-style: normal;
+    font-size: 60px;
+    text-align: left;
+    
+}
+h3{
+text-align: right;
+float: right;
+}
+.note{
+    color: blue;
+    text-align: justify;
+}
